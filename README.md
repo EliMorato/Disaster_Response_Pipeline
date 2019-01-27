@@ -25,3 +25,4 @@ This repository contains three folders:
  - **models** is the folder that contains the python script (*train_classifier.py*) to read the processed data from the database (*DisasterResponse.db*), train a model and save it as a pickle file (*classifier.pkl*).
  
  - **app** is the folder that contains the python script (*run.py*) to run the web app and another folder named **templates** with the html files needed to visualize the web app (*master.html* and *go.html*).
+ 
